@@ -1,0 +1,4 @@
+[10-May-2019 13:16:58 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/hostingadmin/globalsurveyz.com/CA/index.php:346
+Stack trace:
+#0 {main}
+  thrown in /home/hostingadmin/globalsurveyz.com/CA/index.php on line 346

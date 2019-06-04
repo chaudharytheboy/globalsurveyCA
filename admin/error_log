@@ -1,0 +1,16 @@
+[02-May-2019 05:26:38 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 40
+[02-May-2019 05:27:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 16
+[02-May-2019 05:27:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 16
+[02-May-2019 05:27:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 16
+[02-May-2019 05:31:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 37
+[02-May-2019 05:33:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 16
+[02-May-2019 05:33:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 16
+[02-May-2019 05:36:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 16
+[02-May-2019 07:04:34 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/ipone.jpeg): failed to open stream: No such file or directory in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 44
+[02-May-2019 07:04:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppocQmG' to '../images/popular_image/ipone.jpeg' in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 44
+[02-May-2019 07:05:25 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer.png): failed to open stream: No such file or directory in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 44
+[02-May-2019 07:05:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJVXxiK' to '../images/popular_image/most-populer.png' in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 44
+[02-May-2019 07:11:49 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer.png): failed to open stream: No such file or directory in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 39
+[02-May-2019 07:11:49 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBv6pDh' to '../images/popular_image/most-populer.png' in /home/hostingadmin/globalsurveyz.com/CA/admin/update_products.php on line 39
+[10-May-2019 10:15:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/hostingadmin/globalsurveyz.com/CA/admin/dashboard.php on line 173
+[10-May-2019 10:15:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/hostingadmin/globalsurveyz.com/CA/admin/dashboard.php on line 173
